@@ -1,0 +1,25 @@
+{
+  "name": "angular-18-updates",
+  "version": "1.0.0",
+  "description": "mdsoft team",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OSRoot/angular-18-updates.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "osroot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OSRoot/angular-18-updates/issues"
+  },
+  "homepage": "https://github.com/OSRoot/angular-18-updates#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
